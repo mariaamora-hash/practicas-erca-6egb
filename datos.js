@@ -68,7 +68,7 @@ const PRACTICA = {
     ["Director UEDL – UNL", "Dr. Milton Mejía Balcázar"],
     ["Encargado de la gestión académica", "Mgtr. Luis Alberto Chicaiza González"],
     ["Docente tutor académico de prácticas", "Mgtr. Diego Fernando Ortiz Cango"],
-    ["Estudiante", "NOMBRES Y APELLIDOS DEL ESTUDIANTE"],
+    ["Estudiante", "MARÍA AUGUSTA MORA PATIÑO"],
     ["Ciclo", "5"],
     ["Paralelo", "A"]
   ],
